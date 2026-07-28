@@ -1,0 +1,6 @@
+name = "duomi"
+compatibility_date = "2026-07-28"
+
+[assets]
+directory = "."
+exclude = ["node_modules"]
