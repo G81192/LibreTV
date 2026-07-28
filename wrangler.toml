@@ -1,7 +1,7 @@
 name = "duomi"
-main = "server.mjs"  
+main = "server.mjs"
 compatibility_date = "2026-07-28"
+compatibility_flags = ["nodejs_compat"]
 
 [assets]
 directory = "."
-exclude = ["node_modules"]
